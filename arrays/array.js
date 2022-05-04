@@ -8,13 +8,13 @@ Given an array  of  integers and a number, , perform  left rotations on the arra
 function rotLeft(a, d) {
     const lastNumbers = a.slice(0, d);
     const numbersRotate = a.splice(d);
-
-
     return numbersRotate.concat(lastNumbers);
-
-    // Write your code here
 }
+// teste 1
 const arr = [1, 2, 3, 4, 5];
 const rotate = 4;
+// teste 2
+
+// teste 3 
 
 console.log(rotLeft(arr, rotate))
