@@ -1,4 +1,4 @@
-// Desafio 2
+// Desafio 2 - não resilvido
 /*
 2D Array - DS-
 An hourglass in  is a subset of values with indices falling in this pattern in 's graphical representation:
